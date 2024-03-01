@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**solroj0/solroj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Sol. I am an astronomy and mathematics alumn wwith a passion for creatind data reduction and visualization applications.
 
-Here are some ideas to get you started:
+- Actively learning **Python**, **Java**, **SQL** and incorporating **AI** into projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open to freelance and full-time opportunities in software development.
+
+<br>
+<div align="center">
+  
+<div>Java | React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
+<br>
+<div>PostgreSQL DB (Supabase) | Azure (Cognitive Services) | OpenAI API (Dall-E 3) | Git | Figma | Photoshop | CMS</div>
+  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=solroj0" alt="GitHub Streak" /></a>
