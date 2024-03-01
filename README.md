@@ -9,10 +9,10 @@ I am an astronomy and mathematics alumn wwith a passion for creatind data reduct
 <br>
 <div align="center">
   
-<div>Java | React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
+<div>Python | Java | React | JavaScript | HTML 5 | CSS 3 | Fortran </div>
 <br>
 
-<div>PostgreSQL DB (Supabase) | Azure (Cognitive Services) | OpenAI API (Dall-E 3) | Git | Figma | Photoshop | CMS</div>
+<div>OpenAI API (Dall-E 3) | Git  | Photoshop | CMS</div>
 
 
 ## Github Stats
