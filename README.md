@@ -2,9 +2,9 @@
 
 I am an astronomy and mathematics alumn wwith a passion for creatind data reduction and visualization applications.
 
-- Actively learning **Python**, **Java**, **SQL** and incorporating **AI** into projects. 
+- Actively learning **Python** and **Java** while incorporating **AI** into projects. 
 
-- Eagerly seeking freelance and full-time opportunities in the realm of software development.
+- Seeking freelance and full-time opportunities in  software development.
 
 <br>
 <div align="center">
