@@ -11,6 +11,9 @@ Hello, my name is Sol. I am an astronomy and mathematics alumn wwith a passion f
   
 <div>Java | React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
 <br>
+
 <div>PostgreSQL DB (Supabase) | Azure (Cognitive Services) | OpenAI API (Dall-E 3) | Git | Figma | Photoshop | CMS</div>
-  
+
+
+## Github Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=solroj0" alt="GitHub Streak" /></a>
