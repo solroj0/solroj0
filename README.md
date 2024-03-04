@@ -1,6 +1,6 @@
 ### Hi there, my name is Sol 👋
 
-I am an astronomy and mathematics alumn wwith a passion for creatind data reduction and visualization applications.
+I am an astronomy and mathematics alumn with a passion for creating data reduction and visualization applications.
 
 - Actively learning **Python** and **Java** while incorporating **AI** into projects. 
 
