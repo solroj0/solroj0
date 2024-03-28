@@ -17,3 +17,5 @@ I am an astronomy and mathematics alumn with a passion for creating data reducti
 
 ## Github Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=solroj0" alt="GitHub Streak" /></a>
+
+![Image 1](https://github.com/solroj0/banners/bubblegum1.png)
