@@ -15,7 +15,6 @@ I am an astronomy and mathematics alumn with a passion for creating data reducti
 <br>
 <div align="center">
   <div>Python | Java | React | JavaScript | HTML 5 | CSS 3 | Fortran </div>
-  <br>
   <div>OpenAI API (Dall-E 3) | Git  | Photoshop | CMS</div>
   <br>
   <p float="left">
