@@ -1,6 +1,6 @@
 <style>
   .small-line-break {
-    margin-top: 5px; /* Adjust this value to control the size of the line break */
+    margin-top: 10px; /* Adjust this value to control the size of the line break */
   }
 </style>
 
