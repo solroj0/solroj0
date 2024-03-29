@@ -1,8 +1,3 @@
-<style>
-  .small-line-break {
-    margin-top: 100px; /* Adjust this value to control the size of the line break */
-  }
-</style>
 
 <div align="center">
   <p float="left">
@@ -20,8 +15,6 @@ I am an astronomy and mathematics alumn with a passion for creating data reducti
 <br>
 <div align="center">
   <div>Python | Java | React | JavaScript | HTML 5 | CSS 3 | Fortran </div>
-    <div class="small-line-break"></div>
-  <div>OpenAI API (Dall-E 3) | Git  | Photoshop | CMS</div>
   <br>
   <p float="left">
     <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/noodles1.png" width="400" />
