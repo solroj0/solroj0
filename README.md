@@ -5,16 +5,26 @@
   </p>
 </div>
 
-### Hi there, my name is Sol 👋
 
-I’m a **science-trained developer with a focus on data and creative coding**.  
-What drives me is building tools that clarify complexity—whether through data visualization, process automation, or interactive design.  
+<h1 align="center">Hi there, my name is Sol 👋</h1>
 
-- Developing in **Python**, **Rust**, and **JavaScript** with a focus on clean, scalable code.  
-- Exploring ways to integrate **AI/ML** into data workflows and creative applications.  
-- Experienced in both scientific programming (Fortran, numerical methods) and modern web stacks (HTML5, CSS3, APIs).  
-- Currently based in Queens, NY and open to **freelance and full-time opportunities** in software development, data analysis, or technical/creative hybrid roles.  
 
+I do a variety of things:
+
+  - Build data tools, automations, and custom pipelines
+
+  - Develop software across scientific, creative, and systems domains
+
+I know a lot about and actively learn:
+
+  - Python, Rust, JavaScript, HTML/CSS, Fortran
+
+  - Systems programming, Data analysis, visualization, simulation, modeling
+
+  - AI/ML for workflow augmentation and experimental tools
+<br>
+Based in Queens, NY and open to <strong>freelance and full-time opportunities</strong> in software development, data analysis, or technical/creative hybrid roles. 
+<br>
 <br>
 <div align="center">
   <div>Python | Rust | JavaScript | HTML5 | CSS3 | Fortran | Data Viz | Automation</div>
