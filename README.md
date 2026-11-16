@@ -34,7 +34,7 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 <br> Idolatry, false idols - what virtues?
 <br> ignoramus improbable impious impugnan immediate illicit immisive impressive immersive immaculate isolated imaging imaginary
 emotive empiric effervescent emporium empanda
-
+emenate emasculate emputado enbotellar
 <br> Nov 15
 <br> Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
 
