@@ -51,7 +51,7 @@ enough enough
 <br> <i> deserving developed </i>
 <br> Open Source Transparent Accessibility Design 
 <br> 
-<br> 
+<br> boom
 <br>
 <br> Nov 15
 <br> Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
