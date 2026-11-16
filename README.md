@@ -37,11 +37,11 @@ emotive empiric effervescent emporium empanda
 emenate emasculate emputado enbotellar
 emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist harm reduction 
 restoration rapture responsibilities respite rapport repentance relief
-ramification rapidity rally tally smally bally funny bunnie sunny money honey runny 
-explosives extermination erasication evisceration emaciation 
+ramification rapidity rally tally smally jolly funny bunnie sunny money honey runny 
+explosives extermination eradication evisceration emaciation 
 endeavor enroute entourage entender estirar emprender
 excess embarass expose exalt elucidate externalization
-empathy elevate exonerate effigy elliptical eccentricity ephemeris equator 
+empathy elevate exonerate effigy elliptical eccentricity ephemeris equator espacial spatial sassy sass sazón satiating statistical stereoscopic suspicious sufficient satisfactory
 <br> 
 <br>
 <br> Nov 15
