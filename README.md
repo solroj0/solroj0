@@ -7,7 +7,7 @@
 
 <br>
 
-[Blog](./Blog/)   [Words](./Words/)  
+[Blog](https://github.com/solroj0/Blog/)   [Words](https://github.com/solroj0/Words/)  
 
 
 Nov 15
