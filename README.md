@@ -45,7 +45,7 @@ empathy elevate exonerate effigy elliptical eccentricity ephemeris equator espac
 ending enough exhausting expectations
 enough enough
 ¡éxito! exposure efficient epicurean erudite emphasized daft dart damascus denebola datura diethylamide darma drama daredevil despotic denunciation dismissive diligence destination duplicity multiplicity fluidity freedom fastidiousness fashionista fabulous fantastic pharmaceuticals festivities felicidad femtometer fractals fascination future familiar fester frenetic finite fine fidelity fibonacci chalé chanflé chamba churros chamoy chulada champion champiñon chuchuluco chusma chinflón chamorro chesco chido chipote chipotlechín chupete cháchara 
-- impossible incessant indomitable impolite impatient illusive illuminating 
+- impossible incessant indomitable impolite impatient illusive improper illuminating egotistical excessive incisive immaculate inaccurate
 
 
 <br> 
