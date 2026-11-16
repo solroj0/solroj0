@@ -27,9 +27,12 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 
 <br> manual blog entry below ..
 <br>
-<br> Nov 15
 
-Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
+<br> Nov 16
+<br> Ethics and data. Who judges what is just. 
+
+<br> Nov 15
+<br> Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
 
 Now I've been doing this for 9 months. A year is right around the corner. I got serious. I treated it lightly before. I love it now. 
 My work is to help others - the most vulnerable and ignored. It sucks that so many in this field treat it like a paycheck. 
