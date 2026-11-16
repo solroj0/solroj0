@@ -1,4 +1,1 @@
-This repository contains: 
-  - Instructional Design
-  - Graphics & Visualizations
-  - Other works by me
+this repo is outdated and needs updating
