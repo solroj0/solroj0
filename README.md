@@ -7,6 +7,9 @@
 
 <br>
 
+[Blog](./Blog/)   [Words](./Words/)  
+
+
 Nov 15
 
 Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
