@@ -16,13 +16,18 @@ Nov 16 (later later)
 <br> I like privacy first graphene and all that. 
 
 
+I'm really doing all this for fun. I don't expect to use any of it for work. I'd be happy just saying bananas and having it logged by time (location would be awesome). One of the best practices we have in outreach is speaking about the people, their names, and their qualities. If you could see your spoken words as they leave your mind - it would really enhance your output (maybe). I used voice keyboard almost all today w the mic from my Momentum5s, I have some OpenRunPro2Shoks which also capture voice very clearly (for busy Manhatta).
+
+I want to study and make a difference and see what I come up with. I really dont want to be a programmer to be honest. I just like to learn.
 
 
-
+<br>
 ----------------------GOALS 
 
 Super Goal: workspace pipeline allowing interface and automation from always-on/accessible phone (text, email, discord(audio)) to desktop(headless)
 
+
+<br>
 TO DO
 - Sol review markdown
 - sleep
@@ -54,17 +59,24 @@ Words
 - Additionaly, I made it turn my words into close captions that were reproduced on a virtual webcam through OBS. The captions auto scrolled and auto translated using a local llm (dont remember terminology).
 - Repetitive human input tasks were automated for ease of labor
 
-<br> 2. scripted.comms
+<br> 2. Scripted communications
 <br> Texting, required for previous roles. Scaled up to reach many individually with preset messages related to scheduling and programming (lectures grd 9-12).
 - Current goal: ability to text/email an address to log and automate input/output. Scale goal to take any input from preset numbers. Ie. team text this number and your stuff will go through a private sanitized environment
 
+<br> 3. Simple database design (paper to digital simple logic) 
+- Regents exam, categorized each question by topics covered, input correct/incorrect, output performance heatmaps, histograms, a bunch of plots. Project for fun to help determine from our classroom what topics we needed to work on.
+-- self-guided fast results vs. waiting a year+ for some large standarized obscured result
+  -- will add examples here
+
 ------------------
 Additional Experiences
-- Field observation (birds, water sampling, climate conditions)
+- Project based field observation (birds, water sampling, climate conditions, restoration sites, nurseries)
 - Mapping (water features, bathrooms, staging areas, survey zones) - QGIS and ArcGIS
+-   attended some impressive symposiums where they used pattern recognition to map all invasive fauna from satellite imagery. Extremely useful to optimize areas of focus. - who knows, we have people on the field and a database that could produce some fun numbers and figures (?) 
 - Data reduction
+-- Trimming, flatfielding, noise normalization, normalized outputes (relative photometry)
 - Data presentation
-- 
+-- figures you know fancy looking stuff 
 
 
 
