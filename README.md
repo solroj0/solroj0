@@ -38,6 +38,7 @@ emenate emasculate emputado enbotellar
 emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist harm reduction 
 restoration rapture responsibilities respite rapport repentance relief
 ramification rapidity rally tally smally bally funny bunnie sunny money honey runny 
+explosives extermination erasication evisceration emaciation 
 <br> 
 <br>
 <br> Nov 15
