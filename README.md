@@ -15,9 +15,17 @@
 <br>
 -- also a print out of most recent and global stats from /Words 
 
+<br> Important .. add examples of previous automation
+<br> 1.remote-desktop-OBS-miro-+recorded.media , 
+<br>2.voice-translation/cphone-desktop, 
+<br>3. scripted.comms
+<br> ^ imp to add for /Words - ability to text/email address to log and automate input/output 
 <br>
 
-Nov 15
+
+<br> manual blog entry below ..
+<br>
+<br> Nov 15
 
 Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
 
