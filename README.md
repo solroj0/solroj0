@@ -41,6 +41,7 @@ ramification rapidity rally tally smally bally funny bunnie sunny money honey ru
 explosives extermination erasication evisceration emaciation 
 endeavor enroute entourage entender estirar emprender
 excess embarass expose exalt elucidate externalization
+empathy elevate exonerate effigy elliptical eccentricity ephemeris equator 
 <br> 
 <br>
 <br> Nov 15
