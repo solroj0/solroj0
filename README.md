@@ -7,19 +7,58 @@
 
 <br>
 
+-------------------------------------------------
+Nov 16 (later later) 
+<br> ugh so flipping tired. mañana!
+I actually don't even like computers that much. I have a thinkpadz16, Steamdeck, and a number of android phones/devices mostly pixels (4a, 5, 6 (I think)) + 10
+I like privacy first graphene and all that. 
+
+
+- Sol review markdown
+- sleep
+
+
+I actually dont plan on using this platform too much until I have something to make or share. 
+I like to log my progress. ie. Maps.
+
+simple geotagging and a clean ui would be terrific to log hotspots. 
+We see 100+ but even w the most energy theres not too many we can reach.
+If there are that many there is need idk. 
+
+- the reason I wrote a bunch of words is to create legit libraries. Those were for fun but there are structures I want to have
+- ex. Library - CityFHEPS requirements timelines.
+- Library - Harm Reduction
+-   -  drugs  (effects, addiction, treatments, vulnerability factors, long term deterioration and direction of care).
+    -  Housing (food access, transit, growth opportunities, etc.)
+    -  other factors 
+
+
+
+
+
+------------------
+
 [Blog](https://github.com/solroj0/Blog/)   
 [Words](https://github.com/solroj0/Words/)  
 
 
--- Sol write a script to publish most recent blog into the /https://github.com/solroj0/README.md
+-- Sol write a script to publish most recent blog into the /https://github.com/solroj0/solroj0/README.md
 <br>
 -- also a print out of most recent and global stats from /Words 
 
 <br> Important .. add examples of previous automation
-<br> 1.remote-desktop-OBS-miro-+recorded.media , 
-<br>2.voice-translation/cphone-desktop, 
-<br>3. scripted.comms
-<br> ^ imp to add for /Words - ability to text/email address to log and automate input/output 
+<br> 1. remote-desktop-OBS-miro-+recorded.media , and auto-captioning-and-translation
+- I had a computer running in my home I automated to open a series of programs in conjunction to create a drop-in environment where i could join from discord anytime on any device.
+- Additionaly, I made it turn my words into close captions that were reproduced on a virtual webcam through OBS. The captions auto scrolled and auto translated using a local llm (dont remember terminology).
+- Repetitive human input tasks were automated for ease of labor
+
+<br> 2. scripted.comms
+<br> Texting, required for previous roles. Scaled up to reach many individually with preset messages related to scheduling and programming (lectures grd 9-12).
+- Current goal: ability to text/email an address to log and automate input/output. Scale goal to take any input from preset numbers. Ie. team text this number and your stuff will go through a private sanitized environment
+
+  
+- 
+^ imp to add for /Words -
 <br>
 
 <br> Sol: ok... so much to do so much to add. !!! on paper draw out all projects ever done, then create structure w simple descriptions and "here's how I did it"
