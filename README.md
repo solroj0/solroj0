@@ -32,7 +32,7 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 <br> Ethics and data. Who judges what is just. 
 <br> Reality, conscience, meta/physics. When and where does consciousness exist. How do we relate?
 <br> Idolatry, false idols - what virtues?
-<br> ignoramus improbable impious impugnan immediate illicit immisive impressive immersive immaculate isolated imaging imaginary
+<br> ignoramus improbable impious impugnan immediate illicit immisive impressive immersive isolated imaging imaginary
 emotive empiric effervescent emporium empanda
 emenate emasculate emputado enbotellar
 emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist harm reduction 
@@ -44,8 +44,8 @@ excess embarass expose exalt elucidate externalization
 empathy elevate exonerate effigy elliptical eccentricity ephemeris equator espacial spatial sassy sass sazón satiating statistical stereoscopic suspicious sufficient satisfactory sinusoidal syphonic symphony sepsis separate savagery salaciousness solenoid centroid asteroid astroseismology astronaut nautical navigation narrowness numb nimble graviton garrish gateway gale gallon gallery gust gamine galant galactic extraneous homogenized hustle horchata jamaica jumex juguito juguetito joya firm finality terminus origin zero absoluteness climatic cacophonous clarity catharsis clandestine conclusion clearly commonality campechana calabaza cacahuate camaron caramelo cansadisimo callado calenturientx capaz
 ending enough exhausting expectations
 enough enough
-¡éxito! exposure efficient epicurean erudite emphasized daft dart damascus denebola datura diethylamide darma drama daredevil despotic denunciation dismissive diligence destination duplicity multiplicity fluidity freedom fastidiousness fashionista fabulous fantastic pharmaceuticals festivities felicidad femtometer fractals fascination future familiar fester frenetic finite fine fidelity fibonacci chalé chanflé chamba churros chamoy chulada champion champiñon chuchuluco chusma chinflón chamorro chesco chido chipote chipotlechín chupete cháchara 
-- impossible incessant indomitable impolite impatient illusive improper illuminating egotistical excessive incisive immaculate inaccurate
+¡éxito! exposure efficient epicurean erudite emphasized daft dart damascus denebola datura diethylamide darma drama daredevil despotic denunciation dismissive diligence destination duplicity multiplicity fluidity freedom fastidiousness fashionista fabulous fantastic pharmaceuticals festivities felicidad femtometer fractals fascination future familiar fester frenetic finite fine fidelity fibonacci chalé chanflé chamba churros chamoy chulada champion champiñon chuchuluco chusma chinflón chamorro chesco chido chipote chipotle chín chupete cháchara 
+- impossible incessant indomitable impolite impatient illusive improper illuminating egotistical excessive incisive immaculate inaccurate  <br> estrés estorbo estrógenos estrenar esotérico estereo 
 
 
 <br> 
