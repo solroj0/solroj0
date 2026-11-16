@@ -35,7 +35,8 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 <br> ignoramus improbable impious impugnan immediate illicit immisive impressive immersive immaculate isolated imaging imaginary
 emotive empiric effervescent emporium empanda
 emenate emasculate emputado enbotellar
-emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist hom
+emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist harm reduction 
+restoration rapture responsibilities respite rapport repentance reloef
 <br> 
 <br>
 <br> Nov 15
