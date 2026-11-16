@@ -39,6 +39,7 @@ emission emotions emulate hemisphere hectare hesitant hasten half halitosis hamm
 restoration rapture responsibilities respite rapport repentance relief
 ramification rapidity rally tally smally bally funny bunnie sunny money honey runny 
 explosives extermination erasication evisceration emaciation 
+endeavor enroute entourage entender estirar emprender 
 <br> 
 <br>
 <br> Nov 15
