@@ -28,6 +28,9 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 <br> manual blog entry below ..
 <br>
 
+<br> Nov 16 (later) 
+<br> heliocentric
+<br> 
 <br> Nov 16
 <br> Ethics and data. Who judges what is just. 
 <br> Reality, conscience, meta/physics. When and where does consciousness exist. How do we relate?
