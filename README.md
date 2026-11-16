@@ -30,6 +30,7 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 
 <br> Nov 16
 <br> Ethics and data. Who judges what is just. 
+<br> Reality, conscience, meta/physics. When and where does consciousness exist. 
 
 <br> Nov 15
 <br> Phew. For so long I have felt I am seeking a path. I keep collecting knowledge and experiences, but nothing draws me long. After half a year is when I usually leave.
