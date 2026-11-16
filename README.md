@@ -41,7 +41,7 @@ ramification rapidity rally tally smally jolly funny bunnie sunny money honey ru
 explosives extermination eradication evisceration emaciation 
 endeavor enroute entourage entender estirar emprender
 excess embarass expose exalt elucidate externalization
-empathy elevate exonerate effigy elliptical eccentricity ephemeris equator espacial spatial sassy sass sazón satiating statistical stereoscopic suspicious sufficient satisfactory sinusoidal syphonic symphony sepsis separate savagery salaciousness solenoid centroid asteroid astroseismology astronaut nautical navigation narrowness numb nimble graviton garrish gateway gale gallon gallery gust gamine galant galactic extraneous homogenized hustle horchata jamaica jumex juguito juguetito joya firm finality terminus origin zero absoluteness climatic cacophonous 
+empathy elevate exonerate effigy elliptical eccentricity ephemeris equator espacial spatial sassy sass sazón satiating statistical stereoscopic suspicious sufficient satisfactory sinusoidal syphonic symphony sepsis separate savagery salaciousness solenoid centroid asteroid astroseismology astronaut nautical navigation narrowness numb nimble graviton garrish gateway gale gallon gallery gust gamine galant galactic extraneous homogenized hustle horchata jamaica jumex juguito juguetito joya firm finality terminus origin zero absoluteness climatic cacophonous clarity catharsis clandestine conclusion clearly commonality 
 <br> 
 <br>
 <br> Nov 15
