@@ -22,6 +22,8 @@
 <br> ^ imp to add for /Words - ability to text/email address to log and automate input/output 
 <br>
 
+<br> Sol: ok... so much to do so much to add. !!! on paper draw out all projects ever done, then create structure w simple descriptions and "here's how I did it"
+Eventual goal is to recover previous workspace pipeline allowing interface and automation from always-on/accessible phone (text, email, discord(audio)) to desktop(headless ok)
 
 <br> manual blog entry below ..
 <br>
