@@ -40,7 +40,7 @@ restoration rapture responsibilities respite rapport repentance relief
 ramification rapidity rally tally smally bally funny bunnie sunny money honey runny 
 explosives extermination erasication evisceration emaciation 
 endeavor enroute entourage entender estirar emprender
-excess embarass expose 
+excess embarass expose exalt elucidate externalization
 <br> 
 <br>
 <br> Nov 15
