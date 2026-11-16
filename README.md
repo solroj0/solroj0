@@ -36,7 +36,8 @@ Eventual goal is to recover previous workspace pipeline allowing interface and a
 emotive empiric effervescent emporium empanda
 emenate emasculate emputado enbotellar
 emission emotions emulate hemisphere hectare hesitant hasten half halitosis hammock hammerhead halflife hysterical hypochondriac histrionic hermeneutical hepatitis humanist harm reduction 
-restoration rapture responsibilities respite rapport repentance reloef
+restoration rapture responsibilities respite rapport repentance relief
+ramification rapidity rally
 <br> 
 <br>
 <br> Nov 15
