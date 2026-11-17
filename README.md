@@ -10,22 +10,23 @@
 [Blog](https://github.com/solroj0/Blog/)   [Words](https://github.com/solroj0/Words/)  [Libraries](https://github.com/solroj0/Libraries)
 
 -------------------------------------------------
-Nov 16 (later later) 
+<b> Nov 16 (later later) </b> 
 <br> ugh so flipping tired. mañana!
 <br> I actually don't even like computers that much. I have a thinkpadz16, Steamdeck, and a number of android phones/devices mostly pixels (4a, 5, 6 (I think)) + 10 
 <br> I like privacy first graphene and all that. 
 
+I'm really doing all this for fun. I don't expect to use any of it for work (other than the map). I'd be happy just saying bananas and having it logged by time (location would be awesome). One of the best practices we have in outreach is speaking about the people, their names, and their qualities. If you could see your spoken words as they leave your mind - it would really enhance your output (maybe). I used voice keyboard almost all today w the mic from my Momentum5s, I have some OpenRunPro2Shoks which also capture voice very clearly (for busy Manhattan).
 
-I'm really doing all this for fun. I don't expect to use any of it for work. I'd be happy just saying bananas and having it logged by time (location would be awesome). One of the best practices we have in outreach is speaking about the people, their names, and their qualities. If you could see your spoken words as they leave your mind - it would really enhance your output (maybe). I used voice keyboard almost all today w the mic from my Momentum5s, I have some OpenRunPro2Shoks which also capture voice very clearly (for busy Manhatta).
+I want to study and make a difference and see what I come up with. I really dont want to be a programmer to be honest. I just like to learn. - I have extensive experience learning systems (beta testing, breaking games / exploit discovery, speedruns). 
 
-I want to study and make a difference and see what I come up with. I really dont want to be a programmer to be honest. I just like to learn.
-
+Im already kinda bored reading all this hahaha. Need paper. Goodnight.
 
 <br>
-<br> ---
-<br> GOALS 
 
-Super Goal: workspace pipeline allowing interface and automation from always-on/accessible phone (text, email, discord(audio)) to desktop(headless)
+---
+
+<br> GOALS 
+<br> Workspace pipeline allowing interface and automation from always-on/accessible phone (text, email, discord(audio)) to desktop(headless)
 
 
 <br>
@@ -36,6 +37,7 @@ TO DO
 <br> - also a print out of most recent and global stats from /Words
 <br> - migrate away from web-ui
 <br> - paper draw out all projects ever done, then create structure w simple descriptions and "here's how I did it"
+<br> - setup file versioning and adequate codespace
 
 <br>
 <br> I actually dont plan on using this platform too much until I have something to make or share. 
@@ -50,9 +52,10 @@ TO DO
 <b> Words </b> the reason I wrote a bunch of words is to create libraries. Those were for fun but there are structures I want to have
 - ex. Library - CityFHEPS requirements timelines.
 - Library - Harm Reduction
--   -  drug types (effects, addiction, treatments, vulnerability factors, long term deterioration and direction of care)
+-   -  drug types (effects, signs of use, addiction, treatments, vulnerability factors, long term deterioration and direction of care)
     -  Housing opportunities (services, food access, transit, growth opportunities, accesible labor, etc)
     -  other factors 
+- Library - personal accomplishments / portfolio
 
 ---
 
@@ -77,12 +80,12 @@ Additional Experiences
 - Mapping (water features, bathrooms, staging areas, survey zones) - QGIS and ArcGIS
 >   attended some impressive symposiums where they used pattern recognition to map all invasive fauna from satellite imagery. Extremely useful to optimize areas of focus. - who knows, we have people on the field and a database that could produce some fun numbers and figures (?) 
 - Data reduction
--- Trimming, flatfielding, noise normalization, normalized outputes (relative photometry)
+-- Trimming, flatfielding, noise normalization, normalized outputs (relative photometry)
 - Data presentation
 -- figures you know fancy looking stuff 
 
 
-
+- For the majority of Astro and Physics I used Fortran, some Python, I have moderate familiarity w R. It's been some time but I can produce stuff w LaTeX. I like Bash and remote access stuff.
 
 
 <br>
