@@ -10,7 +10,7 @@
 [Blog](https://github.com/solroj0/Blog/)   [Words](https://github.com/solroj0/Words/)  [Libraries](https://github.com/solroj0/Libraries)
 
 -------------------------------------------------
-<b> Nov 16 (later later) </b> 
+<b> Nov 16 </b> 
 <br> ugh so flipping tired. mañana!
 <br> I actually don't even like computers that much. I have a thinkpadz16, Steamdeck, and a number of android phones/devices mostly pixels (4a, 5, 6 (I think)) + 10 
 <br> I like privacy first graphene and all that. 
