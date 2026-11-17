@@ -10,6 +10,11 @@
 [Blog](https://github.com/solroj0/Blog/) - [Words](https://github.com/solroj0/Words/) - [Libraries](https://github.com/solroj0/Libraries) - [Figures](https://github.com/solroj0/Figures)
 
 -------------------------------------------------
+<b> Nov 17 </b>
+Expectation
+
+
+-------------------------------------------------
 <b> Nov 16 (later) </b> 
 <br> Computers are so boring.
 
