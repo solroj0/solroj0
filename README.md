@@ -102,6 +102,6 @@ Additional Experiences
   <br>
   <p float="left">
     <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/noodles1.png" width="400" />
-    <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/octoquad1.png" alt="Image 2" width="400" /> 
+    <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/vibro1.png" alt="Image 2" width="400" /> 
   </p>
 </div>
