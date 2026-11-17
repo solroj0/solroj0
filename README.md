@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
     <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/bubblegum4.png" width="400" />
-    <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/lollipop1.png" alt="Image 2" width="400" /> 
+    <img src="https://raw.githubusercontent.com/solroj0/solroj0/main/banners/primordial3.png" alt="Image 2" width="400" /> 
   </p>
 </div>
 
