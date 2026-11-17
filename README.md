@@ -47,6 +47,7 @@ TO DO
 <br> simple geotagging and a clean ui would be terrific to log hotspots. 
 <br> We see 100+ but even w the most energy theres not too many we can reach.
 <br> If there are that many there is need idk. 
+> to see is not to talk/engage. A "ticker" could help paint better heatmaps. 
 
 ---
 
