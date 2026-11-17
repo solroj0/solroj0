@@ -79,7 +79,7 @@ TO DO
 Additional Experiences
 - Project based field observation (birds, water sampling, climate conditions, restoration sites, nurseries)
 - Mapping (water features, bathrooms, staging areas, survey zones) - QGIS and ArcGIS
->   attended some impressive symposiums where they used pattern recognition to map all invasive fauna from satellite imagery. Extremely useful to optimize areas of focus. - who knows, we have people on the field and a database that could produce some fun numbers and figures (?) 
+>   attended some impressive symposiums where they used pattern recognition to map all invasive flora from satellite imagery. Extremely useful to optimize areas of focus. - who knows, we have people on the field and a database that could produce some fun numbers and figures (?) -- <i> as the person who went and trimmed all those tons of invasive plants, some analysis or "hey maybe do it this way bc of our math" would've saved me lots of energy </i>
 - Data reduction
 -- Trimming, flatfielding, noise normalization, normalized outputs (relative photometry)
 - Data presentation
