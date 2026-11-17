@@ -7,11 +7,11 @@
 
 <br>
 
-[Blog](https://github.com/solroj0/Blog/)   [Words](https://github.com/solroj0/Words/)  [Libraries](https://github.com/solroj0/Libraries)
+[Blog](https://github.com/solroj0/Blog/) - [Words](https://github.com/solroj0/Words/) - [Libraries](https://github.com/solroj0/Libraries) - [Figures](https://github.com/solroj0/Figures)
 
 -------------------------------------------------
 <b> Nov 16 </b> 
-<br> ugh so flipping tired. mañana!
+<br> ugh so flipping tired. mañana! 
 <br> I actually don't even like computers that much. I have a thinkpadz16, Steamdeck, and a number of android phones/devices mostly pixels (4a, 5, 6 (I think)) + 10 
 <br> I like privacy first graphene and all that. 
 
@@ -20,12 +20,13 @@ I'm really doing all this for fun. I don't expect to use any of it for work (oth
 I want to study and make a difference and see what I come up with. I really dont want to be a programmer to be honest. I just like to learn. - I have extensive experience learning systems (beta testing, breaking games / exploit discovery, speedruns). 
 
 Im already kinda bored reading all this hahaha. Need paper. Goodnight.
+I like to organize and I think the best kind of organizing is to learn how to organize people. <i> Clearly </i> I need to polish my coarse edges still. Working on it.
 
 <br>
 
 ---
 
-<br> GOALS 
+<br> Possible Goals / Ideas
 <br> Workspace pipeline allowing interface and automation from always-on/accessible phone (text, email, discord(audio)) to desktop(headless)
 
 
@@ -49,7 +50,7 @@ TO DO
 
 ---
 
-<b> Words </b> the reason I wrote a bunch of words is to create libraries. Those were for fun but there are structures I want to have
+<b> Words </b> the reason I wrote a bunch of words is to create libraries. Those were for fun but there are structures I want to have. 
 - ex. Library - CityFHEPS requirements timelines.
 - Library - Harm Reduction
 -   -  drug types (effects, signs of use, addiction, treatments, vulnerability factors, long term deterioration and direction of care)
@@ -83,9 +84,12 @@ Additional Experiences
 -- Trimming, flatfielding, noise normalization, normalized outputs (relative photometry)
 - Data presentation
 -- figures you know fancy looking stuff 
-
+- Training Materials / Instructional Design
+-- I'm typically not satisfied learning something w mastery unless others are able to learn it an easy to access and understand way (I was a terrific teacher).
 
 - For the majority of Astro and Physics I used Fortran, some Python, I have moderate familiarity w R. It's been some time but I can produce stuff w LaTeX. I like Bash and remote access stuff.
+- I am very good at taking complex tasks and simplifying them
+- I also really enjoy game design. Super tic tac toe (super gato) super fun.
 
 
 <br>
