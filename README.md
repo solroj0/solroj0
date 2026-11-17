@@ -10,12 +10,15 @@
 [Blog](https://github.com/solroj0/Blog/) - [Words](https://github.com/solroj0/Words/) - [Libraries](https://github.com/solroj0/Libraries) - [Figures](https://github.com/solroj0/Figures)
 
 -------------------------------------------------
+<b> Nov 16 (later) </b> 
+<br> Computers are so boring.
+
 <b> Nov 16 </b> 
 <br> ugh so flipping tired. mañana! 
 <br> I actually don't even like computers that much. I have a thinkpadz16, Steamdeck, and a number of android phones/devices mostly pixels (4a, 5, 6 (I think)) + 10 
 <br> I like privacy first graphene and all that. 
 
-I'm really doing all this for fun. I don't expect to use any of it for work (other than the map). I'd be happy just saying bananas and having it logged by time (location would be awesome). One of the best practices we have in outreach is speaking about the people, their names, and their qualities. If you could see your spoken words as they leave your mind - it would really enhance your output (maybe). I used voice keyboard almost all today w the mic from my Momentum5s, I have some OpenRunPro2Shoks which also capture voice very clearly (for busy Manhattan).
+I'm really doing all this for fun. I don't expect to use any of it for work (other than the map). I'd be happy just saying bananas and having it logged by time (location would be awesome). One of the best practices we have is speaking about them, their names, and their qualities. If you could see your spoken words as they leave your mind (maybe organized) - it would really enhance your output (maybe). Some regular consumer headphones' microphones capture voice very clearly even for the busiest streets of Manhattan.
 
 I want to study and make a difference and see what I come up with. I really dont want to be a programmer to be honest. I just like to learn. - I have extensive experience learning systems (beta testing, breaking games / exploit discovery, speedruns). 
 
@@ -33,7 +36,7 @@ I like to organize and I think the best kind of organizing is to learn how to or
 <br>
 TO DO
 <br> - Sol review markdown
-<br> - sleep
+<br> - <b> Obscure all this github stuff </b> <i> birdwatching </i>
 <br> - Sol write a script to publish most recent blog into the /https://github.com/solroj0/solroj0/README.md
 <br> - also a print out of most recent and global stats from /Words
 <br> - migrate away from web-ui
@@ -47,7 +50,8 @@ TO DO
 <br> simple geotagging and a clean ui would be terrific to log hotspots. 
 <br> We see 100+ but even w the most energy theres not too many we can reach.
 <br> If there are that many there is need idk. 
-> to see is not to talk/engage. A "ticker" could help paint better heatmaps. 
+> to see is not to talk/engage. A "ticker" could help paint better heatmaps.
+> i.e. somwhere log saw approx 20 in the area covered.
 
 ---
 
