@@ -12,10 +12,11 @@
 -------------------------------------------------
 <b> Nov 18 </b>
 <br> Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
+-portable scanner (research)
 
 -------------------------------------------------
 <b> Nov 17 </b>
-Expectation
+<br> Expectation
 
 
 -------------------------------------------------
