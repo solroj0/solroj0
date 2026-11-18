@@ -10,15 +10,16 @@
 [Blog](https://github.com/solroj0/Blog/) - [Words](https://github.com/solroj0/Words/) - [Libraries](https://github.com/solroj0/Libraries) - [Figures](https://github.com/solroj0/Figures)
 
 -------------------------------------------------
+
 <b> Nov 18 </b>
-<br> Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
 <br> -portable scanner (research)
 <br> goal various #/address to feed text to different sources (blog, words, birds)
 
 -------------------------------------------------
+
 <b> Nov 17 </b>
 <br> Expectation - satisfied 
-
+<br> Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
 
 -------------------------------------------------
 <b> Nov 16 (later) </b> 
