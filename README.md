@@ -12,6 +12,7 @@
 -------------------------------------------------
 
 <b> Nov 18 </b>
+<br> vocal excercises preparing index
 <br> -portable scanner (research)
 <br> goal various #/address to feed text to different sources (blog, words, birds)
 
