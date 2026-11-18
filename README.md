@@ -11,7 +11,7 @@
 
 -------------------------------------------------
 <b> Nov 18 </b>
-Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
+<br> Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
 
 -------------------------------------------------
 <b> Nov 17 </b>
