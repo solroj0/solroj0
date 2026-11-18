@@ -13,6 +13,7 @@
 <b> Nov 18 </b>
 <br> Finally some decent sleep. Tomorrow hopefully some paper time finally. It just gets so dark so early.
 <br> -portable scanner (research)
+<br> goal various #/address to feed text to different sources (blog, words, birds)
 
 -------------------------------------------------
 <b> Nov 17 </b>
@@ -46,16 +47,12 @@ I like to organize and I think the best kind of organizing is to learn how to or
 <br>
 TO DO
 <br> - Sol review markdown
-<br> - <b> Obscure all this github stuff </b> <i> birdwatching </i>
+<br> - <i> birdwatching </i>
 <br> - Sol write a script to publish most recent blog into the /https://github.com/solroj0/solroj0/README.md
 <br> - also a print out of most recent and global stats from /Words
 <br> - migrate away from web-ui
 <br> - paper draw out all projects ever done, then create structure w simple descriptions and "here's how I did it"
 <br> - setup file versioning and adequate codespace
-
-<br>
-<br> I actually dont plan on using this platform too much until I have something to make or share. 
-<br> I like to log my progress. ie. Maps.
 
 <br> simple geotagging and a clean ui would be terrific to log hotspots. 
 <br> We see 100+ but even w the most energy theres not too many we can reach.
@@ -72,6 +69,7 @@ TO DO
     -  Housing opportunities (services, food access, transit, growth opportunities, accesible labor, etc)
     -  other factors 
 - Library - personal accomplishments / portfolio
+- Library - psychiatric 
 
 ---
 
