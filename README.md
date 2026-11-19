@@ -12,7 +12,7 @@
 -------------------------------------------------
 
 <b> Nov 18 </b>
-
+- sol playlist 
 
 <br> <b> Bathrooms. universal unitor, 2nd only to water. Replenishment and refuse. 
 <br> vocal excercises preparing index
